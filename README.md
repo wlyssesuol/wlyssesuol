@@ -20,9 +20,6 @@ Currently, I work at **PagBank**, always focused on solving complex problems wit
 ## Education  
 - **B.Sc. in Computer Science – Unitri (2008 - 2012)**  
 
-## Certifications  
-- *(Add here your certifications, such as AWS, Docker, Kubernetes, etc.)*  
-
 ## Languages & Tools  
 `Java` `Kotlin` `Spring Boot` `C#` `AWS` `PostgreSQL` `Oracle` `MongoDB` `Docker` `JUnit` `Mockito` `IntelliJ IDEA`  
 
